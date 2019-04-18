@@ -426,11 +426,12 @@ sup {
 }
 
 .action-btn {
-  background: #00c8aa;
+  background: darkred;
   font-weight: 600;
   padding: 0.7em 2em;
   color: #FFFFFF;
-  border: 2px solid #00c8aa;
+  border: 2px solid darkred
+;
   display: block;
   float: left;
 }
